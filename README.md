@@ -2,7 +2,7 @@
 
 A script to import [Omnivore](https://omnivore.app/) articles into [DEVONthink 3](https://www.devontechnologies.com/apps/devonthink).
 
-On October 30th, [Omnivore team announced they will shutdown](https://blog.omnivore.app/p/details-on-omnivore-shutting-down) their free-hosted service on November 30th. Until the shutdown, you can download your entire Omnivore library in the form of the zip archive. This script imports articles (in HTML format) and highlights (in Markdown format) to DEVONthink's Global Inbox.
+On October 30th, [Omnivore team announced they will shutdown](https://blog.omnivore.app/p/details-on-omnivore-shutting-down) their free-hosted service on November 30th. Until the shutdown, you can download your entire Omnivore library in the form of a zip archive. This script imports articles (in Web Archive format) and highlights (in Markdown format) to DEVONthink's Global Inbox.
 
 ## Prerequisites
 
