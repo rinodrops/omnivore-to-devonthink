@@ -1,3 +1,9 @@
+> [!NOTE]  
+> I no longer use Omnivore since the termination of their server.
+> The Omnivore community continuously supports self-hosting option after the shutting down, and this script might work with the self-hosted server as well.
+> Please feel free to reuse this codebase if you're willing to enhance to support the self-hosted servers.
+> Thanks!
+
 # Omnivore to DEVONthink Importer
 
 A script to import [Omnivore](https://omnivore.app/) articles into [DEVONthink 3](https://www.devontechnologies.com/apps/devonthink).
